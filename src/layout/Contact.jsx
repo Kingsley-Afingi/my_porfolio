@@ -26,7 +26,7 @@ const Contact = () => {
     setTimeout(() => setSubmitted(false), 4000);
 
     // Optionally, you can open mailto if you want direct email
-    // window.location.href = `mailto:kingsley@example.com?subject=Contact from ${formData.name}&body=${formData.message}`;
+    // window.location.href = `mailto:kingsleyafingi6@example.com?subject=Contact from ${formData.name}&body=${formData.message}`;
   };
 
   return (
@@ -75,7 +75,7 @@ const Contact = () => {
                 <FaTwitter />
               </a>
               <a
-                href="mailto:kingsley@example.com"
+                href="mailto:kingsleyafingi6@example.com"
                 className="text-gray-600 hover:text-indigo-500 dark:text-gray-400 dark:hover:text-indigo-400 text-2xl transition-colors"
               >
                 <FaEnvelope />

@@ -7,21 +7,22 @@ const testimonials = [
     role: "Product Manager at NovaTech",
     feedback:
       "Working with Kingsley was a fantastic experience. His technical skills in React, Next.js, and backend integration are impressive, and his attention to detail helped us deliver our project ahead of schedule.",
-    image: "https://randomuser.me/api/portraits/women/68.jpg",
+    image: "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e",
   },
   {
     name: "James Carter",
     role: "Founder of DevHire",
     feedback:
       "Kingsley is an exceptional full-stack developer. He built a scalable web app using TypeScript and Supabase that exceeded our expectations. Highly professional and always proactive!",
-    image: "https://randomuser.me/api/portraits/men/75.jpg",
+    image: "https://images.unsplash.com/photo-1603415526960-f7e0328c63b1 ",
+    // image: "https://randomuser.me/api/portraits/men/75.jpg",
   },
   {
     name: "Sophia Lee",
     role: "UI/UX Designer at PixelCraft",
     feedback:
       "Collaborating with Kingsley was smooth and inspiring. He transforms complex designs into fully responsive and interactive user experiences. Truly a developer with a designer’s mindset.",
-    image: "https://randomuser.me/api/portraits/women/45.jpg",
+    image: "https://images.unsplash.com/photo-1544005313-94ddf0286df2",
   },
 ];
 

@@ -1,10 +1,12 @@
 import React from "react";
 import { FaHtml5, FaCss3Alt, FaReact, FaNodeJs } from "react-icons/fa";
+import { RiSupabaseLine } from "react-icons/ri";
 import {
   SiJavascript,
   SiTailwindcss,
   SiTypescript,
   SiPostgresql,
+  SiNextdotjs,
 } from "react-icons/si";
 
 const Skills = () => {
@@ -12,8 +14,10 @@ const Skills = () => {
     { name: "HTML5", icon: <FaHtml5 className="text-orange-500" />, level: "Advanced" },
     { name: "CSS3", icon: <FaCss3Alt className="text-blue-500" />, level: "Advanced" },
     { name: "JavaScript", icon: <SiJavascript className="text-yellow-400" />, level: "Advanced" },
-    { name: "React", icon: <FaReact className="text-cyan-400" />, level: "Advanced" },
+    { name: "React.js", icon: <FaReact className="text-cyan-400" />, level: "Advanced" },
+    { name: "Next.js", icon: <SiNextdotjs  className="text-cyan-400" />, level: "Advanced" },
     { name: "TypeScript", icon: <SiTypescript className="text-blue-400" />, level: "Intermediate" },
+    { name: "Supabase", icon: <RiSupabaseLine className="text-blue-400" />, level: "Intermediate" },
     { name: "TailwindCSS", icon: <SiTailwindcss className="text-teal-400" />, level: "Advanced" },
     { name: "Node.js", icon: <FaNodeJs className="text-green-500" />, level: "Intermediate" },
     { name: "PostgreSQL", icon: <SiPostgresql className="text-sky-400" />, level: "Intermediate" },

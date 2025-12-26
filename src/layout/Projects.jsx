@@ -28,7 +28,7 @@ const Projects = () => {
         "A platform that connects developers with recruiters. Built with React and Express, featuring authentication, job filtering, and admin management.",
       image: "./images/showcase.jpg",
       tech: ["React","node.js", "Express", "TypeScript", "TailwindCSS"],
-      githubLink: "https://github.com/Kingsley-Afingi",
+      githubLink: "https://workopia-react-frontend.vercel.app/",
     },
     {
       id: 4,
@@ -47,7 +47,7 @@ const Projects = () => {
       image: "./images/recipe6.webp",
       tech: ["Nextjs", "TailwindCSS", "typescript","supabase"],
       // demoLink: "#",
-      githubLink: "https://github.com/Kingsley-Afingi",
+      githubLink: "https://recipe-app-pro.vercel.app/",
     },
   ];
 
